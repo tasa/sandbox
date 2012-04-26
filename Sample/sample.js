@@ -1,3 +1,3 @@
 if (console) {
-	console.log('Hello world133331');
+	console.log('Hello github');
 }
